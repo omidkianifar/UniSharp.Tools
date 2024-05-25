@@ -1,0 +1,18 @@
+{
+    "name": "UniSharp.Tools.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cdd242ee25596ba4bb792e44792266c2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
